@@ -8,7 +8,7 @@
       <font align="left" size="6" color="#006937"> Small_Interview_Handbook </font>
     </h1>
     <p align="left">
-      한층 업그레이드된 그들의 모임입니다.
+      면접을 대비해서 가벼운 마음으로 읽어볼 수 있는 작은 핸드북 레포지토리 😊
     </p>
   </div>
 </div>
