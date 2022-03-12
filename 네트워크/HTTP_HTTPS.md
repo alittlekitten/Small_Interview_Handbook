@@ -1,9 +1,9 @@
 ## 📣 Table
 
-- [HTTP](#HTTP-HTTP)
-- [HTTP 버전별 특징](#HTTP-버전별-특징)
-- [HTTPS](#HTTPS)
-- [HTTPS를 쓰는 이유](#HTTPS를-쓰는-이유)
+- [HTTP](#-http)
+- [HTTP 버전별 특징](#-http-버전별-특징)
+- [HTTPS](#-https)
+- [HTTPS를 쓰는 이유](#-https를-쓰는-이유)
 
 ---
 
